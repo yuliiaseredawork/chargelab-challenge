@@ -79,7 +79,7 @@ Define pipeline triggers for key events:
 * Merge requests or pull requests to ensure code quality in new changes.
 
 
-# Challenge 3
+# Challenge 2
 
 ## Other Tests to Perform
 
